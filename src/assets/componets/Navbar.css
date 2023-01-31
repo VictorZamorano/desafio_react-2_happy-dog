@@ -1,0 +1,9 @@
+.navClass {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+.active {
+	font-size: larger;
+}
